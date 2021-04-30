@@ -1,0 +1,67 @@
+---
+course_id: 10-626-electrochemical-energy-systems-spring-2014
+layout: course_section
+menu:
+  leftnav:
+    identifier: b06bfa4c51cbc1352f53c2b2f9f05768
+    name: Lecture Notes
+    weight: 40
+title: Lecture Notes
+type: course
+uid: b06bfa4c51cbc1352f53c2b2f9f05768
+
+---
+
+Topics covered in lectures in 2014 are listed below. In some cases, links are given to new lecture notes by student scribes. All scribed lecture notes are used with the permission of the  anonymous student author. The recommended reading refers to the lectures notes and exam solutions from previous years or to the books listed below. Lecture notes from previous years are also found in the [study materials]({{< baseurl >}}/sections/study-materials) section.
+
+\[Newman\] = Newman, John, and Karen E. Thomas-Alyea. _Electrochemical Systems_. 3rd ed. Wiley-Interscience, 2004. ISBN: 9780471477563. \[Preview with [Google Books](http://books.google.com/books?id=vArZu0HM-xYC&pg=PAfrontcover)\]
+
+\[Bard\] = Bard, Allen J., and Larry R. Faulkner. _Electrochemical Methods: Fundamentals and Applications_. 2nd ed. Wiley, 2000. ISBN: 9780471043720.
+
+\[O' Hayre\] = O' Hayre, Ryan, Suk-Won Cha, et al. _Fuel Cell Fundamentals_. 2nd ed. Wiley, 2009. ISBN: 9780470258439.
+
+\[Huggins\] = Huggins, Robert A. _Advanced Batteries: Materials Science Aspects_. Springer, 2008. ISBN: 9780387764238. \[Preview with [Google Books](http://books.google.com/books?id=atEOtixRHvcC&pg=PAfrontcover)\]
+
+| SES # | 2014 TOPICS AND LECTURE NOTES | 2014 READINGS |
+| --- | --- | --- |
+| {{< td-colspan 3 >}}**I. Introduction**{{< /td-colspan >}} |||
+| 1 | Syllabus, Overview | &nbsp; |
+| 2 | [Basic Physics of Galvanic Cells, Electrochemical Energy Conversion (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_lec2) |  {{< br >}}{{< br >}} [2011 Lecture 1: Basic Physics of Galvanic Cells (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec01) {{< br >}}{{< br >}} [2011 Lecture 2: Electrochemical Energy Conversion (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec02) {{< br >}}{{< br >}} \[Newman\] Chapter 1. {{< br >}}{{< br >}} \[O'Hayre\] Chapter 2. {{< br >}}{{< br >}}  |
+| 3 | [Electrochemical Energy Storage (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_lec3) |  {{< br >}}{{< br >}} [2011 Lecture 3: Electrochemical Energy Storage (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec03) {{< br >}}{{< br >}} \[Huggins\] Chapter 1. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**II. Circuit Models**{{< /td-colspan >}} |||
+| 4 | Equivalent Circuit Dynamics | [2011 Lecture 4: Dynamics of Equivalent Circuits (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec04) |
+| 5 | Impedance I |  {{< br >}}{{< br >}} [2011 Lecture 5: Impedance spectroscopy (PDF - 1.6MB)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec05) {{< br >}}{{< br >}} \[Bard\] Chapter 10. {{< br >}}{{< br >}} \[O'Hayre\] Chapter 7, sec. 3.4. {{< br >}}{{< br >}}  |
+| 6 | Impedance II | [2011 Lecture 6: Impedance of Electrode (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec06) |
+| 7 | Impedance III |
+| {{< td-colspan 3 >}}**III. Thermodynamics**{{< /td-colspan >}} |||
+| 8 | Statistical Thermodynamics, Regular Solution Model | [2011 Lecture 7: Statistical Thermodynamics (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec07) |
+| 9 | Nernst Equation, Open Circuit Voltage |  {{< br >}}{{< br >}} [2011 Lecture 8: The Nernst Equation (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec08) {{< br >}}{{< br >}} \[Newman\] Chapter 2. {{< br >}}{{< br >}}  |
+| 10 | Fuel Cells and Batteries |  {{< br >}}{{< br >}} [2011 Lecture 9: Fuel Cells and Lead-Acid Batteries (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec09) {{< br >}}{{< br >}} \[O'Hayre\] Chapter 2. {{< br >}}{{< br >}}  |
+| 11 | [Pourbaix Diagram (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_lec11) |  {{< br >}}{{< br >}} [2011 Lecture 9: Fuel Cells and Lead-Acid Batteries (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec09) {{< br >}}{{< br >}} Prentice, Geoffrey A. Chapter 3 in _Electrochemical Engineering Principles_. Prentice Hall, 1990. ISBN: 9780132490382. {{< br >}}{{< br >}}  |
+| 12 | [Metal Acid Batteries, Lemon Battery Demo (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_lec12_conno) | &nbsp; |
+| 13 | [Li-ion Batteries, Pseudocapacitance (PDF - 1.3MB)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_lec13_lithi) |  {{< br >}}{{< br >}} [2011 Lecture 10: Li-ion Batteries (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec10) {{< br >}}{{< br >}} [2011 Lecture 37: Pseudocapacitors and Batterie (PDF - 2.1MB)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec37) {{< br >}}{{< br >}} \[Huggins\] Chapters 2 and 6. {{< br >}}{{< br >}}  |
+| 14 | [Ideal Solution Model, Linear Sweep Voltammetry (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626_s14_lec14_hw6) |  {{< br >}}{{< br >}} [2011 Lecture 11: Reconstitution Electrodes (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec11) {{< br >}}{{< br >}} \[Huggins\] Chapters 3 and 6. {{< br >}}{{< br >}}  |
+| 15 | Regular Solution Model, Phase Separation | [2011 Lecture 11: Reconstitution Electrodes (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec11) |
+| {{< td-colspan 3 >}}**IV. Kinetics**{{< /td-colspan >}} |||
+| 16 | Reactions in Concentrated Solutions |  {{< br >}}{{< br >}} [2011 Lecture 14: Faradaic Reactions in Concentrated Solutions (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec14) {{< br >}}{{< br >}} Bazant, M. Z. "[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c)." _Accounts of Chemical Research_ 46, no. 5 (2013): 1146–47. {{< br >}}{{< br >}}  |
+| 17 | Faradaic Reactions |  {{< br >}}{{< br >}} [2011 Lecture 12: Faradaic Reactions in Dilute Solutions (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec12) {{< br >}}{{< br >}} [2011 Lecture 13: Butler-Volmer Equation (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec13) {{< br >}}{{< br >}} Bazant, M. Z. "[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c)." _Accounts of Chemical Research_ 46, no. 5 (2013): 1148–49. {{< br >}}{{< br >}}  |
+| 18 | Butler-Volmer Equation |  {{< br >}}{{< br >}} \[O'Hayre\] Chapter 3. {{< br >}}{{< br >}} \[Newman\] Chapter 8. {{< br >}}{{< br >}} \[Bard\] Chapter 3. {{< br >}}{{< br >}}  |
+| 19 | [Electrocatalysis (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_lec19_elect) |  {{< br >}}{{< br >}} [2011 Lecture 15: Ion Adsorption and Intercalation (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec15) {{< br >}}{{< br >}} Bazant, M. Z. "[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c)." _Accounts of Chemical Research_ 46, no. 5 (2013): 1155–57. {{< br >}}{{< br >}}  |
+| 20-21 | [Electrochemical Phase Transformations (PDF - 1.5MB)]({{< baseurl >}}/sections/lecture-notes/mit10_626_s14_lec20-21_ept) |  Bai, P., D. A. Cogswell, et al. "[Suppression of Phase Separation in LiFePO4 Nanoparticles During Battery Discharge](http://Dx.doi.org/10.1021/nl202764f)." _Nano Letters_ 11, no. 11 (2011): 4890–96. | {{< br >}}{{< br >}} | 22 | [Homogeneous Charge Transfer (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_lec22_homg) | \[Bard\] Chapter 3, sec. 6. |
+| 23 | [Heterogeneous Charge Transfer (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_lec23) |  {{< br >}}{{< br >}} Bazant, M. Z. "[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c)." _Accounts of Chemical Research_ 46, no. 5 (2013): 1149–50. {{< br >}}{{< br >}}  |
+| 24 | [Charge Transfer at Metal Electrodes (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_lec24) |  {{< br >}}{{< br >}} Bai, P., and M. Z. Bazant. "[Charge Transfer Kinetics at the Solid/Solid Interface in Porous Electrodes](http://Dx.doi.org/10.1038/ncomms4585)." _Nature Communications_ 5, no. 3585 (2014). {{< br >}}{{< br >}} Zeng, Y., R. Smith, P. Bai, and M.Z. Bazant. "[Simple Formula for Marcus-Hush-Chidsey Kinetics](http://www.sciencedirect.com/science/article/pii/S1572665714004330)." _J. Electroanal. Chem._ 735(2014): 77-83. {{< br >}}{{< br >}}  |
+| {{< td-colspan 3 >}}**V. Transport Phenomena**{{< /td-colspan >}} |||
+| 25 | Concentration Polarization |  {{< br >}}{{< br >}} [2011 Lecture 16: Concentration Polarization (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec16) {{< br >}}{{< br >}} \[O'Hayre\] Chapter 5.2. {{< br >}}{{< br >}}  |
+| 26 | Transient Diffusion |  {{< br >}}{{< br >}} [2011 Lecture 19: Transient Diffusion (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec19) {{< br >}}{{< br >}} \[Bard\] Chapters 7 and 8. {{< br >}}{{< br >}}  |
+| 27 | Warburg Impedance |  {{< br >}}{{< br >}} [2011 Lecture 20: Warburg Impedance (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec20) {{< br >}}{{< br >}} \[Bard\] Chapter 10. {{< br >}}{{< br >}}  |
+| 28 | [Forced Convection I (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_lec28_forcon) |  {{< br >}}{{< br >}} [2011 Lecture 17: Forced Convection in Fuel Cells (I) (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec17) {{< br >}}{{< br >}} \[O'Hayre\] Chapter 5.3. {{< br >}}{{< br >}} \[Newman\] Chapter 17. {{< br >}}{{< br >}} Deen, William M. _Analysis of Transport Phenomena_. Oxford University Press, 1998. ISBN: 9780195084948. {{< br >}}{{< br >}} Braff, W. A., C. R. Buie, et al. "[Boundary Layer Analysis of Electrochemical Cells](http://dx.doi.org/10.1149/2.052311jes)." _Journal of the Electrochemical Society_ 160, no. 11 (2013): A2056–63. {{< br >}}{{< br >}}  |
+| 29 | [Forced Convection II (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_lec29) | Braff, W. A., C. R. Buie, et al. "[Boundary Layer Analysis of Electrochemical Cells](http://dx.doi.org/10.1149/2.052311jes)." _Journal of the Electrochemical Society_ 160, no. 11 (2013): A2056–63. |
+| 30 | Forced Convection III | [2011 Lecture 18: Forced Convection in Fuel Cells II (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec18) |
+| 31 | Transport in Solids |  {{< br >}}{{< br >}} [2011 Lecture 21: Solids and Concentrated Solutions (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec21) {{< br >}}{{< br >}} Bazant, M. Z. "[Theory of Chemical Kinetics and Charge Transfer Based on Nonequilibrium Thermodynamics](http://dx.doi.org/10.1021/ar300145c)." _Accounts of Chemical Research_ 46, no. 5 (2013): 1147. {{< br >}}{{< br >}}  |
+| 32 | Concentrated Solutions, Bulk Electrolytes |  {{< br >}}{{< br >}} [2011 Lecture 22: Transport in Bulk Electrolytes (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec22) {{< br >}}{{< br >}} \[Newman\] Chapter 11. {{< br >}}{{< br >}}  |
+| 33 | [Homogeneous Reaction-diffusion (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_lec33_elec) | &nbsp; |
+| 34 | Ion Concentration Polarization |  {{< br >}}{{< br >}} [2011 Lecture 22: Transport in Bulk Electrolytes (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec22) {{< br >}}{{< br >}} [2011 Lecture 23: Ion Concentration Polarization (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec23) {{< br >}}{{< br >}} \[Newman\] Chapter 11. {{< br >}}{{< br >}} \[Newman\] Chapter 4. {{< br >}}{{< br >}}  |
+| 35 | Double Layers, Supercapacitors |  {{< br >}}{{< br >}} [2011 Lecture 24: Diffuse Charge in Electrolyte (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec24) {{< br >}}{{< br >}} [2011 Lecture 25: Diffuse Double Layer Structure (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec25) {{< br >}}{{< br >}} \[Newman\] Chapter 7. {{< br >}}{{< br >}}  |
+| 36 | Transport in Porous Media |  {{< br >}}{{< br >}} [2011 Lecture 32: Percolation (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec32) {{< br >}}{{< br >}} [2011 Lecture 33: Macroscopic Conductivity of Composite (PDF - 1.5MB)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec33) {{< br >}}{{< br >}} [2011 Lecture 34: Transport in Porous Media (PDF - 1.5MB)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec34) {{< br >}}{{< br >}}  |
+| 37 | Scaling Analysis of Energy Storage | [2012 Lecture 36–37: Scaling Analysis of Energy Storage by Porous Electrodes (PDF)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_lec36-37) |
+| 38 | Porous Electrodes (Overview) |  {{< br >}}{{< br >}} [2011 Lecture 35: Porous Electrodes (I. Supercapacitors) (PDF - 1.1MB)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec35) {{< br >}}{{< br >}} [2011 Lecture 36: Electrochemical Supercapacitor (PDF - 1.3MB)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec36) {{< br >}}{{< br >}} [2011 Lecture 37: Pseudocapacitors and Batteries (PDF - 2.1MB)]({{< baseurl >}}/sections/lecture-notes/mit10_626s14_s11lec37) {{< br >}}{{< br >}} \[Newman\] Chapter 22. {{< br >}}{{< br >}} Ferguson, T. R., and M. Z. Bazant. "[Nonequilibrium Thermodynamics of Porous Electrodes](http://dx.doi.org/10.1149/2.048212jes)." _Journal Electrochemical Society_ 159, no. 12 (2012): A1967–A1985. {{< br >}}{{< br >}}
